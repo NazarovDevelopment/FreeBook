@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22823.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreeBook.WebUI", "FreeBook.WebUI\FreeBook.WebUI.csproj", "{5D216003-86DB-43B9-83F6-8ABE263C1326}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreeBook.Domain", "FreeBook.Domain\FreeBook.Domain.csproj", "{C85EB06C-D93B-45CC-92A8-54DD092FD1AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D216003-86DB-43B9-83F6-8ABE263C1326}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D216003-86DB-43B9-83F6-8ABE263C1326}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D216003-86DB-43B9-83F6-8ABE263C1326}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D216003-86DB-43B9-83F6-8ABE263C1326}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C85EB06C-D93B-45CC-92A8-54DD092FD1AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C85EB06C-D93B-45CC-92A8-54DD092FD1AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C85EB06C-D93B-45CC-92A8-54DD092FD1AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C85EB06C-D93B-45CC-92A8-54DD092FD1AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
